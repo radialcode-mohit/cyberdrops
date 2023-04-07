@@ -10,15 +10,15 @@ const Roadmap = () => {
       <Container className="py-5">
         <div className="max_w_830 mx-auto">
           <div class="timeline">
-            <div class="containertimeline right">
-              <div class="content max_w_30 0 ms-5 m s-auto">
+            <div class="containertimeline  right">
+              <div class="content max_w_30 0 ms-md-4  m s-auto">
                 <h2 className="ff_lato_600 fs_lg color_white">March 2022</h2>
                 <p className="ff_lato_400 fs_xsm color_white">
                   1000 Drops Launch on Ethereum
                 </p>
               </div>
             </div>
-            <div class="containertimeline2 left text-end">
+            <div class="containertimeline2  pt-md-5 left text-md-end">
               <div class="content2">
                 <div className="paddingend">
                   <h2 className="ff_lato_600 fs_lg color_white">March 2022</h2>
@@ -28,15 +28,15 @@ const Roadmap = () => {
                 </div>
               </div>
             </div>
-            <div class="containertimeline3 right">
-              <div class="content max_w_30 0 ms-5 m s-auto">
+            <div class="containertimeline3  right">
+              <div class="content max_w_30 0 ms-md-4 m s-auto">
                 <h2 className="ff_lato_600 fs_lg color_white">March 2022</h2>
                 <p className="ff_lato_400 fs_xsm color_white">
                   Creation of Treasury
                 </p>
               </div>
             </div>
-            <div class="containertimeline4 left text-end">
+            <div class="containertimeline4  pt-md-5 left text-md-end">
               <div class="content2">
                 <div className="paddingend">
                   <h2 className="ff_lato_600 fs_lg color_white">April 2022</h2>
@@ -46,13 +46,13 @@ const Roadmap = () => {
                 </div>
               </div>
             </div>
-            <div class="containertimeline5 right">
-              <div class="content max_w_30 0 ms-5 m s-auto">
+            <div class="containertimeline5  right">
+              <div class="content max_w_30 0 ms-md-4 m s-auto">
                 <h2 className="ff_lato_600 fs_lg color_white">June 2022</h2>
                 <p className="ff_lato_400 fs_xsm color_white">Major Collabs</p>
               </div>
             </div>
-            <div class="containertimeline6 left text-end">
+            <div class="containertimeline6  pt-md-5 left text-md-end">
               <div class="content2">
                 <div className="paddingend">
                   <h2 className="ff_lato_600 fs_lg color_white">
@@ -64,8 +64,8 @@ const Roadmap = () => {
                 </div>
               </div>
             </div>
-            <div class="containertimeline7 right">
-              <div class="content max_w_30 0 ms-5 m s-auto">
+            <div class="containertimeline7  right">
+              <div class="content max_w_30 0 ms-md-4 m s-auto">
                 <h2 className="ff_lato_600 fs_lg color_white">
                   Sometime in Q3
                 </h2>
@@ -75,7 +75,7 @@ const Roadmap = () => {
               </div>
             </div>
           </div>
-          <div class="containertimeline8 left text-end">
+          <div class="containertimeline8  pt-md-5 left text-md-end">
             <div class="content2">
               <div className="paddingend">
                 <h2 className="ff_lato_600 fs_lg color_white">
